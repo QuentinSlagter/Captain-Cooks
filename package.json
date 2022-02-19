@@ -1,0 +1,21 @@
+{
+  "name": "captaincooks",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Quentin Slagter",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "core-js": "^3.21.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
