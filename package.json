@@ -5,7 +5,7 @@
   "default": "index.php",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Quentin Slagter",
   "license": "ISC",
